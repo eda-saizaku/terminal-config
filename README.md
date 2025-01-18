@@ -2,6 +2,7 @@
 
 - dependencies
     - oh-my-zsh
+        - zsh-autosuggestions
     - bash-completion
     - powerlevel10k
     - fastfetch
